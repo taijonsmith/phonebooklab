@@ -1,1 +1,2 @@
-﻿Phonebook Lab made in C
+﻿# phonebooklab
+﻿Phonebook Lab, made in C
